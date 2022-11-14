@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Special\Special\Massiv\bin\Debug\net7.0\Massiv.exe
+C:\Users\Hp\Desktop\Special\Special\Massiv\bin\Debug\net7.0\Massiv.deps.json
+C:\Users\Hp\Desktop\Special\Special\Massiv\bin\Debug\net7.0\Massiv.runtimeconfig.json
+C:\Users\Hp\Desktop\Special\Special\Massiv\bin\Debug\net7.0\Massiv.dll
+C:\Users\Hp\Desktop\Special\Special\Massiv\bin\Debug\net7.0\Massiv.pdb
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.dll
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\refint\Massiv.dll
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.pdb
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\Massiv.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Special\Special\Massiv\obj\Debug\net7.0\ref\Massiv.dll
